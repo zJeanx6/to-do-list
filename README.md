@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?E5A65F75198F7B9F654FCEDAAD8EC1C562F4
+https://prod.liveshare.vsengsaas.visualstudio.com/join?6517A0F1DE4FB6314E478DF6BD267A53DBA2
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
